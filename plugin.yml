@@ -1,0 +1,7 @@
+name: SimpleMode
+main: org.v1cow.simplemode.SimpleMode
+version: 1.0.0
+description: This plugin allows you to switch gamemodes with ease.
+commands:
+    switch:
+        description: Open the menu to switch.
